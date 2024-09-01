@@ -10,8 +10,9 @@
 
 <img width="1437" alt="image" src="https://github.com/user-attachments/assets/50c996df-589d-47b0-aeb4-cad563392681">
 <img width="1434" alt="image" src="https://github.com/user-attachments/assets/1c19d0c1-e446-44b8-800c-0df24b2c1a33">
-<img width="1434" alt="image" src="https://github.com/user-attachments/assets/68f837b1-7872-43f3-b158-83bbe1df6b1b">
-<img width="1434" alt="image" src="https://github.com/user-attachments/assets/ebb8533b-9bab-41d7-8a24-a875f11b0d38">
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/e1a2a908-c239-469f-8339-f27d897ac879">
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/84d2592b-94fd-4d77-9897-335a402960dd">
+
 
 <h1>Contributing/Running the project locally</h1>
 <a href="https://github.com/AaryaSoni-web/FOOD-DELIVERY-WEBSITE/tree/main">FOOD-DELIVERY-WEBSITE(Foodie-Ride)</a>
