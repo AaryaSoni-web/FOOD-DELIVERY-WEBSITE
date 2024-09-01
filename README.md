@@ -1,4 +1,6 @@
-# FOOD-DELIVERY-WEBSITE-LAYOUT (FOODIE-RIDE)
+# FOOD_DELIVERY_WEBSITE_WEB-DESIGN (FOODIE-RIDE)
+<img width="351" alt="image" src="https://github.com/user-attachments/assets/f1a4d99b-61df-41a2-aaa1-18246fba0cf3" width=250 style="border-radius:50"/>
+
 PREVIEW
 
 <img width="1434" alt="image" src="https://github.com/user-attachments/assets/b16c159f-63fe-4a51-9c47-a2bf93bc92bf">
