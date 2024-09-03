@@ -8,10 +8,11 @@
 
 <h1>Preview</h1>
 
-<img width="1437" alt="image" src="https://github.com/user-attachments/assets/50c996df-589d-47b0-aeb4-cad563392681">
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/7b3301f7-4cc7-428f-a5be-23d9b5e675aa">
 <img width="1434" alt="image" src="https://github.com/user-attachments/assets/1c19d0c1-e446-44b8-800c-0df24b2c1a33">
 <img width="1437" alt="image" src="https://github.com/user-attachments/assets/5dcd7483-59fa-437d-8cfb-605d903d7eec">
-<img width="1437" alt="image" src="https://github.com/user-attachments/assets/84d2592b-94fd-4d77-9897-335a402960dd">
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/7147893e-d4c3-48b7-9325-d58664052304">
+
 
 
 <h1>Contributing/Running the project locally</h1>
